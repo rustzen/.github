@@ -7,7 +7,7 @@ The public work here focuses on reusable foundations: product sites, publishing 
 ## Public Projects
 
 - [rustzen/rustzen-admin](https://github.com/rustzen/rustzen-admin) - a structured Rust full-stack admin template with an Axum backend, React frontend, and clear architecture boundaries.
-- [rustzen/site](https://github.com/rustzen/site) - the public RustZen website for product pages, docs, and release-facing content.
+- [rustzen/app](https://github.com/rustzen/app) - the RustZen product site for app pages, product messaging, docs, and release-facing content.
 - [rustzen/blog](https://github.com/rustzen/blog) - the RustZen blog for AI workflow notes, engineering practice, prompts, skills, Rust, React, and full-stack development.
 - [rustzen/rustzen-zipper](https://github.com/rustzen/rustzen-zipper) - a small Rust CLI for quickly compressing distribution folders.
 
